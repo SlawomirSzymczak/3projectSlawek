@@ -7,7 +7,7 @@ import java.util.List;
 public class Main {
 
     public static String zwrocImie (Integer case1) {
-        Integer case1 = 5;
+        //Integer case1 = 5;
         String imię = "";
         switch (case1) {
             case 1: imię = "Kasia"; break;
@@ -28,8 +28,7 @@ public static void main (String [] args) {
     imię = zwrocImie( 1);
     przedstawSie(imię);
     przedstawSie(zwrocImie(10));
-}
-    public static void main(String[] args) {
+
         System.out.println("Hej, moj pierwszy program");
         System.out.println("Hej, pisze drugi raz!");
         //zmienne

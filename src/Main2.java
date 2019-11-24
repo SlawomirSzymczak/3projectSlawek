@@ -4,7 +4,7 @@ import java.util.List;
 //ALT + ENTER - importowanie klas i bibliotek
 
 public class Main2 {
-}
+
 
 public static Double cenaBrutto(Double cena) {
     return cena * 1.23;
